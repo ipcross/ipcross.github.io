@@ -2,7 +2,7 @@ title: Ipcross.GitHub.io
 description: Test
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
